@@ -1,5 +1,5 @@
 <center>
-  <h1>File Converter to PDF</h1>
+  <h1>PdfConverter</h1>
 </center>
 ## Introduction
 
