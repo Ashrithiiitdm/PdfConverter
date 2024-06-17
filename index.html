@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Converter</title>
+</head>
+<body>
+    <div class="heading">
+        <span class="main">
+            <h1>Welcome to PDF Converter</h1>
+        </span>
+    </div>
+    <div class="choose-button">
+        <form id="upload-form" action="/upload" method="POST" enctype="multipart/form-data">
+            <label for="file-upload" class="custom-file-upload">
+                Choose File
+            </label>
+            <input id="file-upload" name="file" type="file"/>
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+    <div id="result" class="result-container"></div>
+    <script src="script.js" charset="UTF-8"></script>
+</body>
+</html>
