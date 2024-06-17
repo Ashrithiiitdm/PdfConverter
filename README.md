@@ -17,3 +17,12 @@ It uses Node.js along with libraries like `pdf-lib`,`libreoffice-convert` for PD
 
 - Convert `.doc`, `.odt`, `.txt`, `.jpg`, and `.jpeg` files to `.pdf`.
 - Simple API for file conversion.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/Pdfconverter.git
+   cd PdfConverter
+   ```
