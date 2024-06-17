@@ -26,3 +26,21 @@ It uses Node.js along with libraries like `pdf-lib`,`libreoffice-convert` for PD
    git clone https://github.com/yourusername/Pdfconverter.git
    cd PdfConverter
    ```
+
+2. **Install node-dependencies**
+
+    ```bash
+    npm install <dependency_name>
+    ```
+
+3. **Start the server**
+
+   ```bash
+   npm start
+   ```
+   or
+   ```bash
+   node index.js
+   ```
+  and type localhost:3000
+   
