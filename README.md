@@ -1,4 +1,6 @@
-# PdfConverter
+<center>
+  <h1>File Converter to PDF</h1>
+</center>
 ## Introduction
 
 This project allows you to convert the following file formats to PDF:
