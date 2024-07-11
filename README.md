@@ -1,7 +1,8 @@
 <center>
   <h1>PdfConverter</h1>
 </center>
-##Introduction
+
+## Introduction
 
 This project allows you to convert the following file formats to PDF:
 
