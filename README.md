@@ -31,7 +31,7 @@ It uses Node.js along with libraries like `pdf-lib`,`libreoffice-convert` for PD
 2. **Install node-dependencies**
 
     ```bash
-    npm install <dependency_name>
+    npm i
     ```
 
 3. **Start the server**
