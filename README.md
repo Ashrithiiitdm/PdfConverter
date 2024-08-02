@@ -24,7 +24,7 @@ It uses Node.js along with libraries like `pdf-lib`,`libreoffice-convert` for PD
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Pdfconverter.git
+   git clone https://github.com/Ashrithiiitdm/Pdfconverter.git
    cd PdfConverter
    ```
 
